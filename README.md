@@ -57,4 +57,4 @@ Disciplina: Desenvolvimento Front-End para Web
 Integrantes: 
 
 
-Vídeo de apresentação: [Inserir link do vídeo quando estiver disponível]
+Vídeo de apresentação:
